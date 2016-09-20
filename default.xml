@@ -34,7 +34,6 @@
 
 <!-- BEGIN HEXAGON-->
   <project path="platform_manifest" name="HexagonRom/android_platform_manifest" remote="hexagon" />
-  <project path="packages/apps/HexCenter" name="HexagonRom/HexCenter" remote="hexagon" />
   <project path="packages/apps/HexagonUI" name="HexagonRom/android_packages_apps_HexagonUI" remote="hexagon" />
   <project path="packages/apps/Settings" name="Hexagon/android_packages_apps_Settings" remote="hexagon" />
   <project path="packages/apps/SoundRecorder" name="Hexagon/android_packages_apps_SoundRecorder" remote="hexagon" />
@@ -48,6 +47,7 @@
   <project path="packages/apps/Eleven" name="Hexagon/android_packages_apps_Eleven" remote="hexagon" />
   <project path="packages/apps/Messaging" name="Hexagon/android_packages_apps_Messaging" remote="hexagon" />
   <project path="packages/apps/HexCenter" name="Hexagon/HexCenter" remote="hexagon" />
+  <project path="packages/apps/SetupWizard" name="Hexagon/android_packages_apps_SetupWizard" remote="hexagon" />
   <project path="system/core" name="HexagonRom/android_system_core" groups="pdk" remote="hexagon" />
   <project path="vendor/hexagon" name="HexagonRom/android_vendor_hexagon" remote="hexagon" />
 <!-- END HEXAGON -->
